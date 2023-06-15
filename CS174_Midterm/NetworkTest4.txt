@@ -1,0 +1,12 @@
+P, Josh, Turner
+P, Joe, Prots
+P, Will, Diaz
+F, Josh, Turner, Will, Diaz
+F, Joe, Prots, Josh, Turner
+L, Josh, Turner
+L, Joe, Prots
+U, Will, Diaz, Guy, Fierri
+U, Josh, Turner, Joe, Prots
+U, Will, Diaz, Josh, Turner
+L, Josh, Turner
+L, Joe, Prots

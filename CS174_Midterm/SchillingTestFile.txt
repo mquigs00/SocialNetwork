@@ -1,0 +1,26 @@
+P, Neil, Peart
+P, Geddy, Lee
+P, Alex, Lifeson
+P, Gordon, Sumner
+P, Stewart, Copeland
+P, Andy, Sommer
+F, Neil, Peart, Geddy, Lee
+F, Neil, Peart, Alex, Lifeson
+L, Geddy, Lee
+L, Alex, Lifeson
+L, Neil, Peart
+B, Neil, Peart, Stewart, Copeland
+F, Stewart,Copeland, Neil, Peart
+M, Stewart, Copeland, Neil, Peart, "Why u no like me?"
+E, Neil, Peart
+F, Gordon, Sumner, Geddy, Lee
+B, Geddy, Lee, Gordon, Sumner
+L, Geddy, Lee
+F, Andy, Sommer, Alex, Lifeson
+L, Alex, Lifeson
+U, Alex, Lifeson, Neil, Peart
+L, Neil, Peart
+L, Alex, Lifeson
+F, Gordon, Sumner, Stewart, Copeland
+F, Andy, Sommer, Stewart, Copeland
+L, Stewart, Copeland

@@ -1,0 +1,13 @@
+P, Kelly, French
+P, Steve, Brown
+P, Jerry, Clever
+M, Kelly, French, Steve, Brown, "Hi Steve!"
+M, Jerry, Clever, Kelly, French, "Why didn't you message me?"
+E, Steve, Brown
+E, Kelly, French
+B, Kelly, French, Jerry, Clever
+B, Steve, Brown, Kelly, French
+M, Kelly, French, Steve, Brown, "Why won't you talk to me!?!?"
+M, Jerry, Clever, Kelly, French, "I just wanna chat with you..."
+E, Steve, Brown
+E, Kelly, French
